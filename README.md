@@ -10,7 +10,7 @@ See [Blog](http://www.islamzatary.com/intro-to-puppeteer/).
 npm install
 ```
 
-### Screen Shot
+### ScreenShot
 ```
 node screenshots
 ```
